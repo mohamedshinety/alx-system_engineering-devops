@@ -1,2 +1,2 @@
 #!/bin/bash
-past -d, - - | cud -d, -f1
+paste -d, - - | cud -d, -f1
